@@ -21,6 +21,7 @@ Abra o arquivo `index.html` em um navegador moderno.
 
 ## 🐙 Deploy:
 Recomendado via GitHub Pages, Netlify, Vercel ou Surge.
+No meu caso, usei Vercel: https://flappy-sith.vercel.app/
 
 ---
 
